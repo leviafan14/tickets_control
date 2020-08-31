@@ -1,0 +1,46 @@
+a{
+    color:#696969;
+    text-decoration: none;
+}
+.form_class{
+    background-color:#FFFFFF;
+    border:1px solid #D3D3D3;
+    border-radius:10px;
+    padding-left:3px;
+}
+
+.ok_button{  
+    background-color: #F0E68C;
+    border:1px solid #F0E68C;
+    border-radius: 20px;
+    color:#696969;
+    font-size: 14px;
+    font-family:monospace;
+    padding:0px;
+    padding-bottom:3px;
+    padding-left:3px;
+    padding-right:3px;
+    padding-top:3px;
+}
+ .a_cancel{
+  padding:0px;
+  padding-bottom:3px;
+  padding-top:3px;
+  width:19%;
+}
+.d_new{
+    border-bottom: 1px solid  #F0E68C;
+    border-radius: 15px;
+    margin-bottom:5px;
+    padding-bottom:5px;
+}
+.sms_label{
+    border:1px solid #D3D3D3; 
+    border-radius: 20px;
+    color:#696969;
+    font-family: serif; 
+    font-size: 14px;
+    padding:3px;
+    padding-left:15px;
+    padding-right:15px;
+}

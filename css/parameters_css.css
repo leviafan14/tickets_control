@@ -1,0 +1,113 @@
+body{
+    margin:5px;
+    padding:5px;
+    width:100%;
+}
+a{
+    color:lightsalmon;
+    text-decoration: none;
+}
+.a_menu_link{
+    background-color: #F0E68C;
+    border:1px solid #F0E68C;
+    border-radius: 20px;
+    font-size:14px;
+    color:#696969;
+    padding-top: 3px;
+    padding-left:5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    margin:3px;
+    text-decoration: none;
+    width:5%
+}
+.p_head{ 
+    background-color:#F0E68C;
+    border:1px solid #F0E68C;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#696969;
+    text-align: center;
+    text-decoration: none;
+    padding:5px;
+}
+h3{ 
+    color:lightsalmon;
+    text-align:center;
+    text-decoration: none;
+}
+#d_main{
+    color:lightsalmon;
+    display:block;
+    height:25em;
+    max-height:25em;
+    margin:3px;
+    padding:3px;
+    width:30%;
+}    
+#d_parameters{
+    height:25em;
+    max-height:25em;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    width:95%;
+}    
+.div_search_param{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    width:35%;
+}
+.div_param{
+    display:block;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    text-align:center;
+    height:30em;
+    max-height:30em;
+    width:50%;
+}
+.div_search{
+    border:3px solid Gainsboro;
+    border-radius: 15px;
+    color:lightsalmon;
+    width:50%;
+}
+.f_param{
+    border-bottom:1px solid lightsalmon;
+    border-radius: 15px;
+    margin:10px;
+    padding:10px;
+}
+.text{ 
+    border-radius: 10px;
+    text-align:center;
+}
+.button{
+    background-color:#0E8BB8 linear-gradient(#00FF7F, green);
+    border-color: #0E8BB8 linear-gradient(#00FF7F, green);
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width:8%;
+}
+.balance{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.balance input{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:16px;
+    font-weight: 900;
+    background-color:#F0E68C;
+    border:1px solid #F0E68C;
+    border-radius: 20px;;
+    color:#696969;
+}
+.form_select{
+    border: 1px solid Gainsboro;
+    border-radius:10px;    
+}
+.p_button{
+    margin:0px;
+    padding:0px;
+    padding-top:3px;
+    padding-bottom:0px;
+}
